@@ -1,2 +1,4 @@
+
 json.message "Josh is Awesome!!!"
-json.thing_2 "other stuff"
+json.message_2 "This is Xavier! Second Attempt"
+
