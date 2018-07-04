@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
   namespace :api do
     get '/pages' => 'pages#index'
+    get '/LeBenedictArnold' => 'ice_creams#index'
     get 'ragtagturtles' => 'ragtagturtles#index'
     get '/products' => 'products#index'
     get '/parlays' => 'parlays#index'
