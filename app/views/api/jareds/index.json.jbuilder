@@ -1,1 +1,1 @@
-json.message "List of Jareds"
+json.message "This is Jared"
