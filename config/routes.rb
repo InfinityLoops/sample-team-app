@@ -10,5 +10,6 @@ Rails.application.routes.draw do
     get '/trees' => 'trees#index'
     get '/stuffed_mangos' => 'stuffed_mangos#index'
     get '/purpleelephants' => 'purpleelephants#index'
+    get '/scuffed_jays' => 'scuffed_jays#index'
   end
 end
